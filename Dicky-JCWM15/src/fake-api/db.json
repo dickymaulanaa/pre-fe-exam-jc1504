@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nama": "zoro",
+      "usia": "21",
+      "pekerjaan": "ronin"
+    },
+    {
+      "nama": "naruto",
+      "usia": "19",
+      "pekerjaan": "ninja",
+      "id": 2
+    },
+    {
+      "nama": "kenshin",
+      "usia": "26",
+      "pekerjaan": "samurai",
+      "id": 3
+    }
+  ]
+}
